@@ -24,6 +24,8 @@
   "homepage": "https://github.com/manojpandey/rtmd/blob/master/README.md",
   "dependencies": {
     "ejs": "^2.4.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "redis": "^2.6.0-2",
+    "share": "^0.6.3"
   }
 }
